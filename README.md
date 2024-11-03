@@ -1,7 +1,7 @@
 # Tic Tac Toe 앱
 
-🎮 **데모 버전**  
-Tic Tac Toe 게임의 데모 버전을 여기서 확인해보세요: [Tic Tac Toe 데모](https://rlnrlnworld.github.io/tictactoe-app/)
+🎮 [**데모 버전**](https://rlnrlnworld.github.io/tictactoe-app/)  
+Tic Tac Toe 게임의 데모 버전을 여기서 확인해보세요!
 
 <br>
 
